@@ -99,10 +99,10 @@
                                         <div class="col-xl-4 col-lg-4 col-md-6">
                                             <div class="single_team">
                                                 <div class="team_thumb">
-                                                    <img src="img/team/ANDRES.jpg" alt="">
+                                                    <img src="img/team/perfil.jpg" alt="">
                                                 </div>
                                                 <div class="team_info text-center">
-                                                    <h3>JOSE ANDRES GARCIA CHAVEZ</h3>
+                                                    <h3>KASANDRA MAMANI RODRIGUEZ</h3>
                                                     <p>CEO</p>
                                                     <div class="social_link">
                                                         <ul>

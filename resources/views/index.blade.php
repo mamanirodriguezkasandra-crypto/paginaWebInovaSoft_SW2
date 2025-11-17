@@ -268,7 +268,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="more_close_btn text-center">
-                            <a href="{{url('https://github.com/AndresChavez2021')}}" class="boxed-btn3-line">More Projects</a>
+                            <a href="{{url('https://github.com/mamanirodriguezkasandra-crypto')}}" class="boxed-btn3-line">More Projects</a>
                         </div>
                     </div>
                 </div>
@@ -377,10 +377,10 @@
                             <div class="col-xl-4 col-lg-4 col-md-6">
                                 <div class="single_team">
                                     <div class="team_thumb">
-                                        <img src="img/team/ANDRES.jpg" alt="">
+                                        <img src="img/team/perfil.jpg" alt="">
                                     </div>
                                     <div class="team_info text-center">
-                                        <h3>JOSE ANDRES GARCIA CHAVEZ</h3>
+                                        <h3>KASANDRA MAMANI RODRIGUEZ</h3>
                                         <p>CEO</p>
                                         <div class="social_link">
                                             <ul>
