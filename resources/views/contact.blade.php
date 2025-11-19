@@ -80,14 +80,14 @@
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
-                            <h3>+591 63489070</h3>
+                            <h3>+591 77068973</h3>
                             <p>Mon to Fri 9am to 6pm</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-email"></i></span>
                         <div class="media-body">
-                            <h3>SOFTFORGE@gmail.com</h3>
+                            <h3>INOVASOFT@gmail.com</h3>
                             <p>Send us your query anytime!</p>
                         </div>
                     </div>

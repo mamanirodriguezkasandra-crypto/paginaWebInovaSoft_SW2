@@ -357,7 +357,7 @@
                     <div class="testmonial_active owl-carousel">
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
-                                <img src="{{ asset('img/logoSlogan.png') }}" alt="">
+                                <img src="{{ asset('img/logoInov.png') }}" alt="">
                             </div>
                         </div>
                     </div>

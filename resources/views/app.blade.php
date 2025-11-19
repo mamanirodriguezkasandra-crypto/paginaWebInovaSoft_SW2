@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SOFTFORGE INNOVATIONS</title>
+    <title>INOVASOFT</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -41,7 +41,7 @@
                     <div class="row">
                         <div class="col-xl-5 col-md-5 ">
                             <div class="header_left">
-                                <p>¡Bienvenido a Softforge Innovations!</p>
+                                <p>¡Bienvenido a InovaSoft!</p>
                             </div>
                         </div>
                         <div class="col-xl-7 col-md-7">
@@ -49,8 +49,8 @@
                                 <div class="short_contact_list">
                                     <ul>
                                         <li><a href="#"> <i class="fa fa-envelope"></i>
-                                            SOFTFORGE@gmail.com</a></li>
-                                        <li><a href="https://api.whatsapp.com/send?phone=+59163489070&text=hola ," . urlencode($mensaje_whatsapp)" target="_blank"><i class="fa fa-phone"></i> +591 63489070</a></li>
+                                            INOVASOFT@gmail.com</a></li>
+                                        <li><a href="https://api.whatsapp.com/send?phone=+59177068973&text=hola ," . urlencode($mensaje_whatsapp)" target="_blank"><i class="fa fa-phone"></i> +591 77068973</a></li>
                                     </ul>
                                 </div>
                                 <div class="social_media_links">
@@ -77,7 +77,7 @@
                             <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
                                     <a href="index.html">
-                                        <img src="img/logo.png" alt="" width="250">
+                                        <img src="img/logoInov.png" alt="" width="250">
                                     </a>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@
                     <div class="info_text text-center">
                         <h3>Para cualquier información llámanos</h3>
                         <p>Forjando Software con la Firmeza de la Calidad</p>
-                        <a class="boxed-btn3" href="https://api.whatsapp.com/send?phone=+59163489070&text=hola ," . urlencode($mensaje_whatsapp)" target="_blank"><i class="fa fa-phone"></i> +591 63489070</a>
+                        <a class="boxed-btn3" href="https://api.whatsapp.com/send?phone=+59177068973&text=hola ," . urlencode($mensaje_whatsapp)" target="_blank"><i class="fa fa-phone"></i> +591 77068973</a>
                         
                     </div>
                 </div>
@@ -138,8 +138,8 @@
                                 </a>
                             </div>
                             <p>
-                                <a href="#">SOFTFORGE@gmail.com</a> <br>
-                                +591 634 890 70 <br>
+                                <a href="#">INOVASOFT@gmail.com</a> <br>
+                                +591 770 689 73 <br>
                                 600/D, Green road, NewYork
                             </p>
                             <div class="socail_links">
@@ -206,7 +206,7 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script> All rights reserved <i class="fa fa-heart-o"
-                                aria-hidden="true"></i> by <a href="{{ url('/') }}" target="_blank">Softforge Innovations</a>
+                                aria-hidden="true"></i> by <a href="{{ url('/') }}" target="_blank">InovaSoft</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
@@ -249,9 +249,9 @@
 
     <script>
         var botmanWidget = {
-            title: "SOFTFORGE INNOVATIONS",
-            aboutText: "SOFTFORGE INNOVATIONS",
-           // introMessage: "Hola!, Bienvenido a SOFTFORGE INNOVATIONS, ¿En que puedo ayudarte?",
+            title: "INOVASOFT",
+            aboutText: "INOVASOFT",
+           // introMessage: "Hola!, Bienvenido a INOVASOFT, ¿En que puedo ayudarte?",
             placeholderText: "Escribe un mensaje",
         };
     </script>

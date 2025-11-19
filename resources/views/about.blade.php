@@ -33,7 +33,7 @@
                 <h3 class="mb-30">Misión</h3>
                 <div class="row">
                     <div class="col-md-9">
-                        <p class="text-right">En “SoftForge Innovations”, nuestra misión es impulsar la excelencia en el desarrollo
+                        <p class="text-right">En “INOVASOFT”, nuestra misión es impulsar la excelencia en el desarrollo
                              de software, comprometiéndonos a proporcionar soluciones innovadoras y de alta calidad que superen las 
                              expectativas de nuestros clientes.</p>
                     </div>
@@ -48,27 +48,27 @@
                     <div class="col-md-3">
                         <div class="single-defination">
                             <h4 class="mb-20">Excelencia</h4>
-                            <p>SOFTFORGE INNOVATIONS se compromete a entregar software de
+                            <p>INOVASOFT se compromete a entregar software de
                                 alta calidad que cumpla con los requisitos de sus clientes.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single-defination">
                             <h4 class="mb-20">Innovación</h4>
-                            <p>SOFTFORGE INNOVATIONS está comprometida con la innovación y la
+                            <p>INOVASOFT está comprometida con la innovación y la
                                 búsqueda de nuevas formas de mejorar sus productos y servicios.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single-defination">
                             <h4 class="mb-20">Trabajo en equipo</h4>
-                            <p>SOFTFORGE INNOVATIONS cree que el trabajo en equipo es esencial para el éxito.</p>
+                            <p>INOVASOFT cree que el trabajo en equipo es esencial para el éxito.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single-defination">
                             <h4 class="mb-20">Compromiso con el cliente</h4>
-                            <p>SOFTFORGE INNOVATIONS está comprometida con la satisfacción de sus clientes.</p>
+                            <p>INOVASOFT está comprometida con la satisfacción de sus clientes.</p>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <blockquote class="generic-blockquote">
-                            “SOFTFORGE INNOVATIONS fue fundada en 2024 por un grupo de universitarios ingenieros
+                            “INOVASOFT fue fundada en 2024 por un grupo de universitarios ingenieros
                             de software con más de 4 años de experiencia en la industria.
                             La empresa se dedica al desarrollo de software a medida, desarrollo
                             de aplicaciones móviles, desarrollo de sitios web y consultoría en
